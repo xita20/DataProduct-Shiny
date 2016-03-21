@@ -1,0 +1,237 @@
+country	region	poverty.degree	Degree.of.deficit.in.decent.work	Hunger.degree	Primary.school.emrollment.degree	Equal.girls.enrollment.degree.in.primary.school	Under.five.year.olds.mortality.degree	maternal.motality.degree	Degree.of.access.to.reproductive.health	HIV.incidence.degree	missing.data	Tuberculosis.mortality.degree	sanitation.coverage.degree	Degree.of.proportion.of.slum.dwellers	Internet.usage.degree
+Afghanistan	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Albania 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Algeria	Northern Africa	2	4	2	4	3	1	0	3	2	0	2	4	3	4
+American Samoa	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Andorra 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Angola	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Anguilla	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Antigua and Barbuda	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Argentina	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Armenia	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Aruba	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Australia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Austria 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Azerbaijan	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Bahamas	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Bahrain	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Bangladesh	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Barbados	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Belarus 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Belgium 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Belize	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Benin	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Bermuda 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Bhutan	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Bolivia	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Bosnia and Herzegovina 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Botswana 	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Brazil	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+British Virgin Islands	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Brunei Darussalam	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Bulgaria	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Burkina Faso	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Burundi	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Cambodia	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Cameroon	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Canada 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Cape Verde	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Cayman Islands	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Central African Rep	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Chad	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Channel Islands 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Chile	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+China	Eastern Asia	3	4	3	4	3	1	0	4	2	0	2	2	3	4
+Hong Kong SAR of China	Eastern Asia	3	4	3	4	3	1	0	4	2	0	2	2	3	4
+Macao SAR of China	Eastern Asia	3	4	3	4	3	1	0	4	2	0	2	2	3	4
+Colombia	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Comoros	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Congo	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Cook Islands	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Costa Rica	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Cote d'Ivoire	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Croatia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Cuba	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Cyprus 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Czech Republic 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Czechoslovakia [former]	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Congo	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Democratic Yemen [former]	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Denmark 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Djibouti	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Dominica	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Dominican Republic	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Ecuador	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Egypt	Northern Africa	2	4	2	4	3	1	0	3	2	0	2	4	3	4
+El Salvador	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Equatorial Guinea	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Eritrea	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Estonia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Ethiopia	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+European Union (EU)	#N/A	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Faeroe Islands 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Falkland Is (Malvinas)	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Fiji	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Finland 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+France 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+French Guiana	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+French Polynesia	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Gabon	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Gambia	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Georgia	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Germany 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Ghana	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Gibraltar	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Greece 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Greenland 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Grenada	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Guadeloupe	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Guam	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Guatemala	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Guinea	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Guinea-Bissau	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Guyana	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Haiti	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Honduras	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Hungary 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Iceland 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+India	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Indonesia	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Iran (Islamic Republic of)	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Iraq	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Ireland 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Israel 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Italy 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Jamaica	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Japan 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Jordan	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Kazakhstan	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Kenya	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Kiribati	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Korea, Dem People's Rep of 	Eastern Asia	3	4	3	4	3	1	0	4	2	0	2	2	3	4
+Korea, Rep of 	Eastern Asia	3	4	3	4	3	1	0	4	2	0	2	2	3	4
+Kuwait	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Kyrgyzstan	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Lao People's Dem Republic	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Latvia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Lebanon 	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Lesotho 	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Liberia	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Libyan Arab Jamahiriya	Northern Africa	2	4	2	4	3	1	0	3	2	0	2	4	3	4
+Liechtenstein 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Lithuania 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Luxembourg 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Madagascar	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Malawi	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Malaysia	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Maldives	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Mali	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Malta 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Marshall Islands	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Martinique	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Mauritania	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Mauritius	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Mayotte	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Mexico	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Micronesia (Fed States of)	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Monaco 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Mongolia	Eastern Asia	3	4	3	4	3	1	0	4	2	0	2	2	3	4
+Montenegro 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Montserrat	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Morocco	Northern Africa	2	4	2	4	3	1	0	3	2	0	2	4	3	4
+Mozambique	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Myanmar	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Namibia 	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Nauru	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Nepal	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Netherlands 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Netherlands Antilles	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+New Caledonia	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+New Zealand 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Nicaragua	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Niger	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Nigeria	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Niue	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Northern Mariana Is	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Norway 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Oman	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Pakistan	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+Palau	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Panama	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Papua New Guinea	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Paraguay	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Peru	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Philippines	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Poland 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Portugal 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Puerto Rico	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Qatar 	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Republic of Moldova	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Reunion	#N/A	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Romania	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Russian Federation 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Rwanda	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Saint Helena	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Saint Kitts and Nevis	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Saint Lucia	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Saint Pierre and Miquelon	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+St Vincent & the Grenadines	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Samoa	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+San Marino 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Sao Tome & Principe	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Saudi Arabia	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Senegal	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Serbia  	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Montenegro 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Seychelles	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Sierra Leone	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Singapore	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Slovakia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Slovenia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Solomon Islands	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Somalia	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+South Africa 	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+South Sudan	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Spain 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Sri Lanka	Southern Asia 	5	5	4	4	4	2	0	3	2	0	3	1	4	3
+State of Palestine	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Sudan	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Sudan (former)	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Suriname	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Swaziland 	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Sweden 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Switzerland 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Syrian Arab Republic	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Tajikistan	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Thailand	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+TFYR of Macedonia 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Timor-Leste	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Togo	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Tokelau	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Tonga	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Trinidad and Tobago	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Tunisia	Northern Africa	2	4	2	4	3	1	0	3	2	0	2	4	3	4
+Turkey 	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Turkmenistan	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Turks and Caicos Islands	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Tuvalu	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Uganda	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Ukraine	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+Union of Soviet Socialist Republics [former]	#N/A	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+United Arab Emirates 	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+United Kingdom 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+U. Rep of Tanzania	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+United States 	developed	1	1	1	5	4	1	0	4	2	0	2	4	5	5
+US Virgin Islands	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Uruguay	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Uzbekistan	Caucasus and Central Asia	2	3	3	4	4	2	0	3	3	0	3	4	0	4
+Vanuatu	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Venezuela R.B.	Latin America and the Caribbean	2	3	3	4	4	1	0	4	2	0	2	3	3	4
+Viet Nam	South-eastern Asia	3	4	3	4	4	1	0	3	2	0	3	2	4	4
+Wallis and Futuna Islands	Oceania 	5	5	3	0	2	2	0	2	2	0	4	1	3	1
+Western Sahara	Northern Africa	2	4	2	4	3	1	0	3	2	0	2	4	3	4
+Yemen 	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Yemen Arab Republic [former]	Western Asia 	2	4	3	4	2	1	0	3	2	0	2	3	3	4
+Yugoslavia [former Socialist Federal Republic]	#N/A	0	0	0	0	0	0	0	0	0	0	0	0	0	0
+Zambia	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3
+Zimbabwe	Sub-Saharan Africa	5	5	5	3	3	3	0	2	4	0	3	1	5	3

@@ -1,0 +1,12 @@
+region,Year1990,Year2000,Year2010,title
+World,0,0.08,0.06,HIV Incidence Rates
+  Developing regions,0,0.09,0.06,
+    Northern Africa,0,0.01,0.01,
+    Sub-Saharan Africa,0,0.61,0.37,
+Latin America and the Caribbean,0,0.04,0.03,
+    Eastern Asia,0,0.01,0.01,
+    Southern Asia,0,0.03,0.02,
+    South-Eastern Asia (including Oceania),0,0.03,0.03,
+    Western Asia,0,0.01,0.01,
+    Caucasus and Central Asia,0,0.03,0.06,
+  Developed regions,0,0.03,0.03,
